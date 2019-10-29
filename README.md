@@ -7,3 +7,5 @@
 -  Nothing will, foreseeably, be revisited once added to this repository. Wysiwyg. As-is. Use at your own risk. =P
 
 -  Most scripts are tools independent of other files, and have been commented accordingly. Seasoned coders and scientists will likely find nothing useful here. This stuff is for the frustrated beginner and/or the new grad student.
+
+-  If it there is scholarly concern/interest in my Kondo-lattice code, please contact me at eightbitastronomy@protonmail.com
