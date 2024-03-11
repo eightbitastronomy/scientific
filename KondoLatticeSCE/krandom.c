@@ -2,8 +2,8 @@
  *
  *  krandom library: library to provide pseudorandom functions; to hide access to mersenne twister from dSFMT library.
  *
- *  Author (pseudonomously): eightbitastronomy (eightbitastronomy@protonmail.com)
- *  KondoLatticeSCE is copyrighted by eightbitastronomy, 2018.
+ *  Author: Miguel Abele
+ *  KondoLatticeSCE is copyrighted by Miguel Abele, 2018.
  *  dSFMT code is copyrighted by its owners.
  * 
  *  License information:

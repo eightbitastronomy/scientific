@@ -2,8 +2,8 @@
  *  afmiso_c - T=0 calculator for Isotropic-model SDW energy
  *
  *
- *  Author (pseudonomously): eightbitastronomy (eightbitastronomy@protonmail.com)
- *  Copyrighted by eightbitastronomy, 2018.
+ *  Author: Miguel Abele
+ *  Copyrighted by Miguel Abele, 2018.
  * 
  *  License information: 
  *

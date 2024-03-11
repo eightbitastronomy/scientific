@@ -1,6 +1,6 @@
 /************************************************************************************
  * list.h - this file is included with KondoLatticSCE for operability. No copyright
- *          is claimed by eightbitastronomy. See below for more information, 
+ *          is claimed by Miguel Abele. See below for more information, 
  *          including copyright and license information.
  ************************************************************************************/
 

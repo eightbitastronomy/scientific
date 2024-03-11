@@ -2,8 +2,8 @@
  *  afm_bulk.c - AFM phase bulk/nonboundary calculations
  *
  *
- *  Author (pseudonomously): eightbitastronomy (eightbitastronomy@protonmail.com)
- *  Copyrighted by eightbitastronomy, 2018.
+ *  Author: Miguel Abele
+ *  Copyrighted by Miguel Abele, 2018.
  * 
  *  License information: 
  *
