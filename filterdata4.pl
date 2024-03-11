@@ -2,7 +2,7 @@
 #
 ###############################################################################################################################
 # filterdata5.pl
-# author: eightbitastronomy (eightbitastronomy@protonmail.com)
+# author: Miguel Abele
 # License: none. 
 #          This source code may be used freely and without constraint.
 # Last updated: 25 oct 2019 for commenting.

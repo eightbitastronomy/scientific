@@ -4,7 +4,7 @@
 #  cmd-line sets parameters as well as positions of data in records
 #  data is read into Record objects,
 #
-#  author: eightbitastronomy (eightbitastronomy@protonmail.com)
+#  author: Miguel Abele
 #  license: none. 
 #           This source code may be used freely and without constraint.
 #  Last updated: 25 oct 2019 for commenting.
